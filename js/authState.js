@@ -31,7 +31,7 @@ firebase.auth().onAuthStateChanged(function (user) {
         // document.getElementById("send-verification-div").style.display = "none";
         // document.getElementById("user_email_show").innerHTML = email_id;
         window.location =
-          "https://hat.sh/";
+          "https://cyber-liard.vercel.app/";
       }
     }
   } else {
